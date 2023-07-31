@@ -1,0 +1,10 @@
+Flask==2.2.2
+joblib==1.1.0
+numpy==1.23.2
+pandas==1.4.3
+scikit_learn==1.1.2
+waitress==2.1.2
+nose 
+coverage 
+nosexcover 
+pylint
